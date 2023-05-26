@@ -3,6 +3,14 @@ import colorama
 import platform
 import os
 
+############----------############
+#          By: LexaHck           #
+#    https://github.com/LexaHck  #
+#                                #
+#     From the dark side...      #
+#             -2023-             #
+############----------############
+
 # Variables globales
 name_city = input("Ingresa el nombre de la ciudad: ")
 name_country= input("Ingresa el nombre del pais: ")
